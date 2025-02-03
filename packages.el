@@ -53,3 +53,10 @@
 (package! typst-preview
   :recipe (:host github :repo "havarddj/typst-preview.el"))
 (package! websocket)
+
+(package! punpun-themes)
+(package! stimmung-themes)
+
+(package! elcord)
+(package! nov.el)
+(package! esxml)
